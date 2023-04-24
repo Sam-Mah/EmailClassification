@@ -29,6 +29,7 @@ prediction and calculate the performance metrics including accuracy, precision, 
 the test data.
 
 Points:
+
 1. I used Adam for the optimizer because of its state-of-the-art performance
 2. CrossEntropyLoss() is used for the loss function because we are dealing with a multi-class
 classification problem, also I used Softmax for the LSTM activation function.
