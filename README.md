@@ -10,4 +10,4 @@ This project classifies a given email content into one of the four topics.
 
 **Dataset:**
 - Train data: Contains 860 training samples used to train the model
-- Test data (stand-alone): Contains 200 testing samples used exclusively to evaluate the model after training. Do not use this data during training.
+- Test data (stand-alone): Contains 200 testing samples used exclusively to evaluate the model after training.
